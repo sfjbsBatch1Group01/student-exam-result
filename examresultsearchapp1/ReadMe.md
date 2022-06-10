@@ -1,4 +1,4 @@
-# Run the docker-compose.yml file from result-processor
+# Run the docker-compose.yml file
 docker-compose -f docker-compose.yml up
 #Run student-result
 mvn clean install
