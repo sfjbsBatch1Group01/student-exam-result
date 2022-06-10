@@ -1,0 +1,6 @@
+version: '3.2'
+services:
+  sprigapp:
+    image: manshi001/examresultsearchapp1:1.0-SNAPSHOT
+    ports:
+      - "8081:8082"
